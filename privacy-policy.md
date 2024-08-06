@@ -4,7 +4,7 @@ BasicsYaan is committed to protecting the privacy of its users. This Privacy Pol
 
 ## Information We Collect
 
-- **Personal Information:** We do not collect any personal information from users, especially children under the age of 13, without parental consent. Parents may choose to register in the app using their mobile number, which is used solely for authentication purposes.
+- **Personal Information:** We do not collect any personal information from users, especially children under the age of 15, without parental consent. Parents may choose to register in the app using their mobile number, which is used solely for authentication purposes.
 - **Usage Data:** We may collect information about how the app is used, such as user interactions, navigation paths, and device information. This data is used to improve the app's performance and user experience.
 
 ## Use of Information
