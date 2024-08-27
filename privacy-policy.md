@@ -1,10 +1,11 @@
 ## Privacy Policy for GameYaan
 
-Game and Grow!! Solid Basics, Limitless Potential ("we," "our," or "us") is committed to protecting the privacy of users of our app, GameYaan. This Privacy Policy outlines how we collect, use, and disclose information when you use our app.
+## Introduction
+Welcome to GameYaan- Game and Grow!! Solid Basics, Limitless Potential ("we," "our," or "us") is committed to protecting the privacy of users of our app, GameYaan. Our app is designed to transform learning into a fun and engaging experience for users of all ages, offering a dynamic platform filled with logical quests, puzzles, and educational activities. This Privacy Policy outlines how we collect, use, and protect your information when you interact with our app.
 
 ## Information We Collect
   ## Personal Information:
-    We do not collect any personal information from users, especially children under the age of 15, without parental consent. Parents may choose to register in the app using their mobile number, which is used solely for authentication purposes.
+    We do not collect any personal information from users, especially children under the age of 15, without parental consent. Parents may choose to register in the app using Google Sign-In or their mobile number, which is used solely for authentication purposes.
   ## Usage Data:
     We may collect information about how the app is used, such as user interactions, navigation paths, and device information. This data is used to improve the app's performance and user experience.
 
@@ -21,10 +22,10 @@ Game and Grow!! Solid Basics, Limitless Potential ("we," "our," or "us") is comm
     We may disclose information if required by law or in response to lawful requests from governmental authorities.
 
 ## Children's Privacy
-Our app is intended for users of all ages, including children under the age of 13. We do not knowingly collect personal information from children without parental consent. If you believe that we have inadvertently collected personal information from a child without proper consent, please contact us at amitavisangs@gmail.com, and we will take appropriate steps to remove the information.
+Our app is intended for users of all ages, including children under the age of 15. We do not knowingly collect personal information from children without parental consent. If you believe that we have inadvertently collected personal information from a child without proper consent, please contact us at amitavisangs@gmail.com, and we will take appropriate steps to remove the information.
 
 ## Parental Registration
-Parents may choose to register in the app using their mobile number for authentication purposes. This allows parents to monitor their child's progress and control access to certain features within the app.
+Parents may choose to register in the app using Google Sign-In or their mobile number for authentication purposes. This allows parents to monitor their child's progress and control access to certain features within the app.
 
 ## Contact Us
 If you have any questions or concerns about our Privacy Policy, please contact us at amitavisangs@gmail.com.
