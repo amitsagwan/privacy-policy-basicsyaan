@@ -22,15 +22,15 @@ Welcome to GameYaan- Game and Grow!! Solid Basics, Limitless Potential ("we," "o
     We may disclose information if required by law or in response to lawful requests from governmental authorities.
 
 ## Children's Privacy
-Our app is intended for users of all ages, including children under the age of 15. We do not knowingly collect personal information from children without parental consent. If you believe that we have inadvertently collected personal information from a child without proper consent, please contact us at amitavisangs@gmail.com, and we will take appropriate steps to remove the information.
+Our app is intended for users of all ages, including children under the age of 15. We do not knowingly collect personal information from children without parental consent. If you believe that we have inadvertently collected personal information from a child without proper consent, please contact us at gameyaanedu@gmail.com, and we will take appropriate steps to remove the information.
 
 ## Parental Registration
 Parents may choose to register in the app using Google Sign-In or their mobile number for authentication purposes. This allows parents to monitor their child's progress and control access to certain features within the app.
 
 ## Contact Us
-If you have any questions or concerns about our Privacy Policy, please contact us at amitavisangs@gmail.com.
+If you have any questions or concerns about our Privacy Policy, please contact us at gameyaanedu@gmail.com.
 
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
-This Privacy Policy was last updated on 27-08-2024.
+This Privacy Policy was last updated on 29-08-2024.
